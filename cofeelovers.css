@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Inspiration&family=Kaushan+Script&family=Lobster&family=Moon+Dance&family=Pushster&family=Roboto+Mono:wght@100&family=Source+Serif+Pro:wght@200&family=Vujahday+Script&family=Yuji+Hentaigana+Akebono&display=swap');
+header{
+    color: cornsilk;
+    font-size: xx-large;
+    font-family: 'Moon Dance', cursive;;
+    background-color: chocolate;
+}
+body{
+    background-color: cornsilk;
+    background-image: url(./images/Coffee-National-Coffee-Day-FT-Blog0919.jpg);
+    background-size: cover;
+}
+.row
+{
+    width: 1281px;
+    height: 35px;
+    background-color: cornsilk;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border:chocolate 2px solid ;
+
+    
+}
+.col{
+    width: 100px;
+    height: 50px;
+    padding-top: 10px;
+    font-family: 'Vujahday Script', cursive;
+}
+a{
+    text-decoration: none;
+    font-size: xx-large;
+}
+.row2{
+    width: 1281px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 60px;
+    
+}
+.class
+{
+width: 100%;
+height: 300px;
+/* background-color: chocolate; */
+padding-top: 30px;
+border:white 2px solid ;
+border-radius: 20px;
+padding: 30px;
+
+}
+img{
+    width: 100%;
+    height: 300px;
+}
+h1{
+    text-align: center;
+    font-family: 'Vujahday Script', cursive;
+}
+p{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+}
+ .cl-1
+{
+    background-color: cornsilk;
+  
+} 
+.cl-2
+{
+    background-color: cornsilk;
+  
+}
+.cl-3
+{
+    background-color: cornsilk;
+  
+}
+.cl-4
+{
+    background-color: cornsilk;
+  
+}
+.row3{
+    width: 1281px;
+    height: 45px;
+    background-color: cornsilk;
+}
+.row4{
+    width: 1281px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+.cls
+{
+    width: 1281px;
+    height: 500px;
+}
+.cls img
+{
+width: 300px;
+height: 200px;
+padding: 20px;
+border: chocolate 2px solid;
+border-radius: 20px;
+background-color: cornsilk;
+}
+h2{
+    text-align: center;
+    color:black;
+    font-family: 'Yuji Hentaigana Akebono', cursive;
+}
+form{
+    width: 1244px;
+    height: 500px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+button
+{
+    width: 300px;
+    height: 30px;
+    background-color: green;
+    border-radius: 10px;
+    border: brown 2px solid;
+    padding: 5px; 
+    margin-left: 60px;
+}
+label{
+    padding: 5px;
+}
+h4{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+i:hover{
+    padding-right: 26px;
+    cursor: pointer;
+}
+.sticky
+{
+    width: 400px;
+    height: 400px;
+    background-color: chocolate;
+    border: white 2px solid;
+    position: sticky;
+    top:0px;
+}
